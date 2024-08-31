@@ -31,5 +31,5 @@ app.post('/api/transaction',async(req,res)=>{
 })
 
 app.listen(4040,()=>{
-    console.log("Listening on port 4040");
+    console.log("Server is running on the port of 4040");
 })
